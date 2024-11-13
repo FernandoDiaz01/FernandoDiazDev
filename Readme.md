@@ -1,4 +1,4 @@
-# Landing Page para Desarrollo de Landing Pages
+# Bienvenido!
 
 ¡Bienvenido! Este repositorio contiene una **landing page** de ejemplo, diseñada para atraer clientes interesados en crear **páginas de destino personalizadas** y profesionales. Si necesitas una página que convierta visitantes en clientes o te ayude a promocionar un producto o servicio, ¡estás en el lugar correcto!
 

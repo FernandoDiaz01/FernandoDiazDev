@@ -89,13 +89,36 @@ body {
     font-size: 80px;
 }
 
-.btn-contact{
-    background-color: black;
-    color: white;
-    margin: 8%;
-    padding: 2%;
-    border-radius: 20%;
+.btn-container {
+    display: inline-block; 
+    padding: 0;
+    border: none; 
+    background: none; 
+    cursor: pointer; 
+    margin: 12px;
 }
+
+.btn-contact {
+    color: white;
+    background-color: black;
+    text-decoration: none; 
+    padding: 10px 20px;
+    display: inline-block;
+    border: none; 
+    cursor: pointer; 
+    text-align: center;
+}
+
+.btn-contact:visited {
+    color: white;
+}
+
+.btn-contact:focus,
+.btn-contact:active {
+    outline: none; 
+    text-decoration: none;
+}
+
 .img-main-container {
 
     margin-bottom: 13%;
